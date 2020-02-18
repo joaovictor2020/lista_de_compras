@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<lista_de_compras>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ifal.edu.br.lista_de_compras.DemoApplication",
+            "projectName": "lista_de_compras",
+            "args": ""
+        }
+    ]
+}
